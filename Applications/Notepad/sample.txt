@@ -1,0 +1,2 @@
+Hello world 
+Written using the Notepad from pysimple gui
